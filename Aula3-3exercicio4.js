@@ -1,3 +1,4 @@
+const prompt = require("prompt-sync")();
 
 // Função para classificar o animal
 function classificarAnimal(animal) {
